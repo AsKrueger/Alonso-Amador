@@ -10,21 +10,30 @@
 
 ---
 
+> ### 📌 En resumen
+> **Desarrollador junior** con formación en **DAM**, especializado en **backend con Java y Spring Boot**.
+> Busco mi **primer puesto como desarrollador junior**, con preferencia por backend.
+
+---
+
 ## 👋 Sobre mí
 
 Desarrollador de software junior con formación en **Desarrollo de
 Aplicaciones Multiplataforma** y experiencia práctica en desarrollo.
 
-Me especializo en **backend con Java y Spring Boot**: APIs REST,
-persistencia, bases de datos y testing. También he trabajado con
-Android/Kotlin y .NET.
-
-**Busco:** primer puesto como desarrollador junior, con preferencia por
-backend con Java.
+- ⚙️ **Backend con Java y Spring Boot:** APIs REST y lógica de negocio.
+- 🗄️ **Persistencia:** diseño de datos con SQL y PostgreSQL.
+- 🧪 **Calidad:** testing con JUnit.
+- 📱 **Móvil:** aplicaciones Android con Kotlin y Jetpack Compose.
 
 ---
 
 ## 🚀 Proyectos destacados
+
+| Proyecto | Stack | Qué demuestra |
+|---|---|---|
+| [Calculadora3D](https://github.com/AsKrueger/Calculadora3D) | Java · Spring Boot · PostgreSQL | Backend con persistencia: gestiona y calcula costes de proyectos de impresión 3D. |
+| [ExplorerSaga-Extremadura](https://github.com/AsKrueger/ExplorerSaga-Extremadura) | Kotlin · Android · Jetpack Compose | App móvil de turismo, empezando por Mérida. |
 
 <table>
 <tr>
@@ -67,13 +76,32 @@ backend con Java.
 
 Más repositorios en [mi perfil](https://github.com/AsKrueger?tab=repositories).
 
+### 👀 Por dónde empezar
+
+- **Si buscas backend:** revisa [Calculadora3D](https://github.com/AsKrueger/Calculadora3D).
+- **Si buscas móvil:** revisa [ExplorerSaga-Extremadura](https://github.com/AsKrueger/ExplorerSaga-Extremadura).
+
 ---
 
 ## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,junit,kotlin,androidstudio,cs,dotnet,python,sqlite,git,github&perline=7" alt="Skills"/>
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,junit,docker&perline=8" alt="Backend"/>
+
+**Datos**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=8" alt="Datos"/>
+
+**Móvil y otros lenguajes**
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet,python&perline=8" alt="Móvil y otros"/>
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github&perline=8" alt="Herramientas"/>
 
 </div>
 
@@ -103,6 +131,7 @@ Más repositorios en [mi perfil](https://github.com/AsKrueger?tab=repositories).
 
 <!-- PENDIENTE: badge de LinkedIn (issue #2) -->
 <!-- PENDIENTE: badge de email -->
+<!-- PENDIENTE: enlace al CV en PDF, si quieres incluirlo -->
 
 </div>
 
