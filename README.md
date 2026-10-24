@@ -31,4 +31,3 @@ C# · .NET · Kotlin · Android · Python · SQLite
 ## 📫 Contact
 
 LinkedIn: ...
-
