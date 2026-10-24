@@ -34,7 +34,7 @@ Aplicaciones Multiplataforma** y experiencia práctica en desarrollo.
 
 ## 💼 Experiencia
 
-**Desarrollador de aplicaciones** · CodeArts Solutions · contrato de prácticas (sept 2025 – ene 2026)
+**Desarrollador de aplicaciones** · contrato de prácticas (sept 2025 – ene 2026)
 Desarrollo de aplicaciones multiplataforma con C#, Unity y .NET.
 
 ---
@@ -140,7 +140,7 @@ Más repositorios en [mi perfil](https://github.com/AsKrueger?tab=repositories).
 
 ## 🎓 Formación
 
-- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** · CESUR · 2023–2025
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** · 2023–2025
 
 ---
 
