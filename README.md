@@ -6,12 +6,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=AsKrueger&label=Visitas+al+perfil&color=2F80ED&style=flat-square" alt="Visitas"/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-amador/)
+
 </div>
 
 ---
 
 > ### 📌 En resumen
 > **Desarrollador junior** con formación en **DAM**. Backend con **Java y Spring Boot**, full stack con **TypeScript** (React, Angular, NestJS) y apps **Android** con Kotlin.
+>
 > Busco mi **primer puesto como desarrollador junior**, con preferencia por backend.
 >
 > 📍 Mérida, Extremadura · Presencial, híbrido o remoto · Disponibilidad inmediata
@@ -35,67 +38,81 @@ Aplicaciones Multiplataforma** y experiencia práctica en desarrollo.
 ## 💼 Experiencia
 
 **Desarrollador de aplicaciones** · contrato de prácticas (sept 2025 – ene 2026)
+
 Desarrollo de aplicaciones multiplataforma con C#, Unity y .NET.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Stack | Verificado en el código |
-|---|---|---|
-| [Calculadora3D](https://github.com/AsKrueger/Calculadora3D) | Spring Boot · PostgreSQL · Flyway · Docker · Android (Kotlin) | Backend con Spring Web, JPA y Security; migraciones con Flyway; tests con JUnit; Dockerfile. |
-| [Cosplay-Journal](https://github.com/AsKrueger/Cosplay-Journal) | Spring Boot · PostgreSQL 16 · Docker Compose · Android (Kotlin) | Backend con Spring Security y JPA; documentación OpenAPI con springdoc; Docker Compose con PostgreSQL 16; perfil de tests con Testcontainers. |
-| [ExplorerSaga-Extremadura](https://github.com/AsKrueger/ExplorerSaga-Extremadura) | Android · Kotlin · Java | Tests unitarios e instrumentados (`androidTest`). |
-| [PantryMind](https://github.com/AsKrueger/PantryMind) | NestJS · Prisma · TypeScript | API con tests de integración y e2e (Vitest). |
-| [BingoGoals](https://github.com/AsKrueger/BingoGoals) | React · Vite · NestJS · TypeScript | Frontend y API, ambos con tests (Vitest). |
-| [Wayly](https://github.com/AsKrueger/Wayly) | Angular 18 · TypeScript | Tests con Jest y documentación de estrategia de testing (`docs/TESTING.md`). |
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Calculadora3D](https://github-readme-stats.vercel.app/api/pin/?username=AsKrueger&repo=Calculadora3D&theme=tokyonight&hide_border=true)](https://github.com/AsKrueger/Calculadora3D)
+### [Calculadora3D](https://github.com/AsKrueger/Calculadora3D)
 
-</td>
-<td width="50%">
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-[![Cosplay-Journal](https://github-readme-stats.vercel.app/api/pin/?username=AsKrueger&repo=Cosplay-Journal&theme=tokyonight&hide_border=true)](https://github.com/AsKrueger/Cosplay-Journal)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![ExplorerSaga-Extremadura](https://github-readme-stats.vercel.app/api/pin/?username=AsKrueger&repo=ExplorerSaga-Extremadura&theme=tokyonight&hide_border=true)](https://github.com/AsKrueger/ExplorerSaga-Extremadura)
+Backend con Spring Web, JPA y Security · migraciones con Flyway · tests con JUnit · Dockerfile.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![PantryMind](https://github-readme-stats.vercel.app/api/pin/?username=AsKrueger&repo=PantryMind&theme=tokyonight&hide_border=true)](https://github.com/AsKrueger/PantryMind)
+### [Cosplay-Journal](https://github.com/AsKrueger/Cosplay-Journal)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Backend con Spring Security y JPA · documentación OpenAPI · tests con Testcontainers.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![BingoGoals](https://github-readme-stats.vercel.app/api/pin/?username=AsKrueger&repo=BingoGoals&theme=tokyonight&hide_border=true)](https://github.com/AsKrueger/BingoGoals)
+### [ExplorerSaga-Extremadura](https://github.com/AsKrueger/ExplorerSaga-Extremadura)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+
+App de turismo nativa. Tests unitarios e instrumentados.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Wayly](https://github-readme-stats.vercel.app/api/pin/?username=AsKrueger&repo=Wayly&theme=tokyonight&hide_border=true)](https://github.com/AsKrueger/Wayly)
+### [PantryMind](https://github.com/AsKrueger/PantryMind)
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+API con tests de integración y end-to-end (Vitest).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [BingoGoals](https://github.com/AsKrueger/BingoGoals)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+Frontend y API, ambos con tests (Vitest).
+
+</td>
+<td width="50%" valign="top">
+
+### [Wayly](https://github.com/AsKrueger/Wayly)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+Tests con Jest y estrategia de testing documentada.
 
 </td>
 </tr>
 </table>
 
-Más repositorios en [mi perfil](https://github.com/AsKrueger?tab=repositories).
+<div align="center">
 
-### 👀 Por dónde empezar
+Más repositorios en [mi perfil](https://github.com/AsKrueger?tab=repositories)
 
-- **Backend con Java:** [Calculadora3D](https://github.com/AsKrueger/Calculadora3D) y [Cosplay-Journal](https://github.com/AsKrueger/Cosplay-Journal).
-- **Full stack con TypeScript:** [PantryMind](https://github.com/AsKrueger/PantryMind) y [BingoGoals](https://github.com/AsKrueger/BingoGoals).
-- **Móvil:** [ExplorerSaga-Extremadura](https://github.com/AsKrueger/ExplorerSaga-Extremadura).
+</div>
 
 ---
 
@@ -148,7 +165,6 @@ Más repositorios en [mi perfil](https://github.com/AsKrueger?tab=repositories).
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-amador/)
 <!-- PENDIENTE: badge de email -->
 <!-- PENDIENTE: enlace al CV en PDF, si quieres incluirlo -->
 
