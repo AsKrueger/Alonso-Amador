@@ -165,7 +165,7 @@ Más repositorios en [mi perfil](https://github.com/AsKrueger?tab=repositories)
 
 <div align="center">
 
-<!-- PENDIENTE: badge de email -->
+[![Email](https://img.shields.io/badge/Email-alonsoamadorsanchez%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alonsoamadorsanchez@gmail.com)
 <!-- PENDIENTE: enlace al CV en PDF, si quieres incluirlo -->
 
 </div>
