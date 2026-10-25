@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AsKrueger&label=Visitas+al+perfil&color=2F80ED&style=flat-square" alt="Visitas"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-amador/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-amador/) [![Portfolio](https://img.shields.io/badge/Portfolio-2F80ED?style=flat-square&logo=googlechrome&logoColor=white)](https://askrueger.github.io/webportfolio/)
 
 </div>
 
